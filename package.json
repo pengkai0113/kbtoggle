@@ -1,0 +1,24 @@
+{
+    "name": "kbtoggle",
+    "version": "1.0.1",
+    "description": "kbtoggle",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pengkai0113/vue-iosscroller.git"
+    },
+    "keywords": [
+        "移动端软键盘收起/弹出",
+        "移动端软键盘",
+        "软键盘收起/弹出"
+    ],
+    "author": "pangkai0113",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/pengkai0113/vue-iosscroller/issues"
+    },
+    "homepage": "https://github.com/pengkai0113/vue-iosscroller#readme"
+}
